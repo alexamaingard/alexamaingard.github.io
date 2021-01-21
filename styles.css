@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Arapey', serif;
+  font-size: 1.2em;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  color: #e3fdfd;
+  font-family: 'Arapey', serif;
+  font-size: 5rem;
+  line-height: 1;
+}
+
+h2 {
+  margin: 0 auto 0 auto;
+  font-family: 'Arapey', serif;
+  color: #e3fdfd;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Arapey', serif;
+  font-size: 2rem;
+  margin: 0 auto 30px auto;
+}
+
+p {
+  font-family: 'Arapey', serif;
+  margin: 0 auto 0 auto;
+}
+
+.top-container {
+  background-color: #71c9ce;
+  text-align: left;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+  color: #cbf1f5;
+  padding: 220px 200px 0 200px;
+}
+
+.about-me-container {
+  background-color: #a6e3e9;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+  padding: 220px 200px 0 200px;
+}
+
+.skills-container {
+  background-color: #71c9ce;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+  padding: 220px 200px 0 200px;
+}
+
+.experience-sm-container {
+  background-color: #a6e3e9;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+  padding: 50px 100px 50px 100px;
+}
+
+.experience-pt-container {
+  background-color: #71c9ce;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+}
+
+.contact-me-container {
+  background-color: #a6e3e9;
+  font-family: helvetica, sans-serif;
+  height: 100vh;
+}
+
+.experience-sm-left {
+  text-align: left;
+  margin: auto 200px auto 200px;
+}
+
+.experience-sm-right {
+  text-align: right;
+  margin: auto 200px auto 200px;
+}
+
+.profile-black {
+    color: black;
+    margin-bottom: 0;
+  }
+
+  .profile-p {
+    font-size: 120%;
+  }
+
+.dates {
+  font-size: 85%;
+  margin: 0 170px 0 170px;
+}
+
+.job-title {
+  margin: 25px 170px 0 170px;
+}
+
+.job-desc-left {
+  margin: auto 170px auto 170px;
+  text-align: left;
+}
+
+.job-desc-right {
+  margin: auto 170px auto 170px;
+  text-align: right;
+}
+
+/************ PICTURES FORMAT ************/
+
+.profile-pic {
+  height: 250px;
+  width: 250px;
+  float: right;
+  margin: auto auto 250px auto;
+}
+
+.sm-left-pic {
+  height: 120px;
+  width: 120px;
+  float: left;
+  margin: auto 50px auto auto;
+}
+
+.sm-right-pic {
+  height: 120px;
+  width: 120px;
+  float: right;
+  margin: auto auto auto 50px;
+}
+
+/* ICONS FORMAT */
+
+.social-media-icon-prof {
+  color:black;
+}
+
+/*
+      <a class="social-media-icon" href="https://github.com/alexamaingard"><i class="fab fa-github-square fa-3x"></i></a> GITHUB
+*/
